@@ -5,5 +5,6 @@
 複製整個Cs/ 目錄
 ```sh
 sh RenameProj.sh <NewProjectName>
+git init
 ```
 
